@@ -10,7 +10,7 @@ namespace ConsoleApp
             
             foreach (int element in numbers)
             {
-                Console.WriteLine("Hello World!ww");
+                Console.WriteLine("Hello World!");
             }
         }
     }
